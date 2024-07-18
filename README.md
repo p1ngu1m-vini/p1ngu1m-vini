@@ -4,7 +4,7 @@ Eu sou @p1ngu1m-vini e este é o meu perfil GitHub!
 
 ## Sobre Mim
 - 👀 Tenho interesse em programação e tecnologia, com experiência em várias linguagens.
-- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em várias linguagens, incluindo Lua, Pawn, HTML, CSS, JavaScript e Lua.
+- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em várias linguagens, incluindo Lua, Pawn, HTML, CSS, JavaScript | React.
 - 💞️ Estou procurando colaborar em projetos emocionantes onde posso contribuir com meu conhecimento e habilidades.
 
 
